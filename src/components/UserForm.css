@@ -1,0 +1,44 @@
+form {
+  width: 500px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+  gap: 15px;
+}
+
+h2 {
+  padding: 10px;
+}
+form input {
+  width: 350px;
+  height: 40px;
+  padding-left: 10px;
+}
+
+.checkbox {
+  width: 25px;
+}
+label {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+button {
+  cursor: pointer;
+  width: 150px;
+  height: 40px;
+  font-size: 17px;
+  font-weight: bolder;
+  color: white;
+  background-color: royalblue;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+button:hover {
+  background-color: rgb(44, 66, 133);
+}

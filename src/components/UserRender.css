@@ -1,0 +1,12 @@
+li {
+  width: 500px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: white;
+  display: flex;
+  justify-content: left;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  align-items: center;
+  gap: 10px;
+}
